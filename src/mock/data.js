@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'project3.jpeg',
     title: 'The New York Times Best Sellers',
     info: 'Jquery-Ajax implementation',
-    info2: 'Javascript',
+    info2: 'Html , Css , Javascript',
     url: 'https://nyt-bestsellers-stephanking.netlify.app/',
     repo: 'https://github.com/Pramila15/jquery-ajax', // if no repo, the button will not show up
   },
@@ -73,7 +73,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project6.jpeg',
+    img: 'project8.png',
+    title: 'Vaccine Tracker',
+    info: 'Vaccinations against COVID-19: this data is collected by the Our World in Data team from official reports.',
+    info2: 'Html , Css , Javascript',
+    url: 'https://pramila15.github.io/vaccine-analysis.github.io/',
+    repo: 'https://github.com/Pramila15/vaccine-analysis.github.io', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: '',
     title: 'Student Project Scheduler',
     info: 'Simple Android Application with sqlite database implementation',
     info2: 'Android and Sqlite',
