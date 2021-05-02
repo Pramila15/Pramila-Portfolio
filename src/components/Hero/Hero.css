@@ -1,0 +1,9 @@
+#particles-js {
+    position: absolute;
+    width: 92vw;
+    height: 100vh;
+    background-color: white;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
